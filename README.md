@@ -1,16 +1,22 @@
-### Hi there 👋
+#### Hello Everyone! I'm Brandon Franco 👋
 
-<!--
-**brandon-franco/brandon-franco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional full-stack developer since 2020, who enjoys developing web and mobile applications. 
 
-Here are some ideas to get you started:
+My interests primarily lie in medical, and research fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - - -
+
+:books: Coding Languages and Front-End Frameworks I Enjoy
+
+> React
+
+> Angular
+
+> JavaScript & TypeScript
+
+> Ionic
+
+Along with a bunch of others...
+- - - -
+[![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brandonxavierfranco/)
+[![GitHub](https://img.shields.io/github/followers/TristanCrawford?logo=github&style=for-the-badge)](https://github.com/brandon-franco)
