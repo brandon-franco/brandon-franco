@@ -19,4 +19,4 @@ My interests primarily lie in medical, and research fields.
 Along with a bunch of others...
 - - - -
 [![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brandonxavierfranco/)
-[![GitHub](https://img.shields.io/github/followers/TristanCrawford?logo=github&style=for-the-badge)](https://github.com/brandon-franco)
+[![GitHub](https://img.shields.io/github/followers/brandon-franco?logo=github&style=for-the-badge)](https://github.com/brandon-franco)
