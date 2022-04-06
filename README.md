@@ -14,7 +14,7 @@ My interests primarily lie in medical, and research fields.
 
 > JavaScript & TypeScript
 
-> Ionic
+> Ionic & React Native
 
 Along with a bunch of others...
 - - - -
